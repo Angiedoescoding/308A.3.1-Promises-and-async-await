@@ -11,3 +11,14 @@ function getUserData(id) {
   };
 }
 
+// ˆ^initial data
+
+// checking below:
+
+// const id = 3
+// getUserData(id)
+//   .then(userData => console.log(userData))
+//   .catch(error => console.log(error))
+
+
+// this does not work
